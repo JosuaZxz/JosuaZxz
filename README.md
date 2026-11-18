@@ -12,6 +12,8 @@
 <img src="https://img.shields.io/github/followers/JosuaZxz?style=flat-square&color=15332e&label=FOLLOWERS&logo=github&logoColor=white" alt="Followers" />
 <a href="https://josuazxz.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-josuazxz.vercel.app-1c5349?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 <img src="https://img.shields.io/badge/HACKERONE-ch4rsec-1a201f?style=flat-square&logo=hackerone&logoColor=d4946f" alt="HackerOne ch4rsec" />
+<a href="https://saweria.co/JosuaZxz"><img src="https://img.shields.io/badge/SAWERIA-JosuaZxz-1c5349?style=flat-square&logo=buymeacoffee&logoColor=f7d060" alt="Support on Saweria" /></a>
+<a href="https://sociabuzz.com/josuazxz/tribe"><img src="https://img.shields.io/badge/SOCIABUZZ-josuazxz-1a201f?style=flat-square&logo=ko-fi&logoColor=7be0c8" alt="Support on SociaBuzz" /></a>
 
 </div>
 
@@ -130,11 +132,12 @@ flowchart LR
 
 ---
 
-## Connect
+## Connect & Support
 
 - **Portfolio:** [josuazxz.vercel.app](https://josuazxz.vercel.app)
 - **GitHub:** [@JosuaZxz](https://github.com/JosuaZxz)
 - **HackerOne:** `ch4rsec`
+- **Support:** [Saweria](https://saweria.co/JosuaZxz) · [SociaBuzz](https://sociabuzz.com/josuazxz/tribe)
 - **Availability:** Open to Full Stack web engineering, AI workflow integration, and server infrastructure collaborations (`2025 / 2026`).
 
 <div align="center">
