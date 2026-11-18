@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:091110,50:15332e,100:1c5349&height=210&section=header&text=Josua%20Zxz&fontSize=62&fontColor=f4faf8&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%C2%B7%20AI%20Workflows%20%C2%B7%20Security%20Research&descSize=17&descAlignY=60&descColor=7be0c8" width="100%" alt="Josua Zxz Header" />
 
-<a href="https://difano.vercel.app">
+<a href="https://josuazxz.vercel.app">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=5CE0C0&center=true&vCenter=true&width=760&lines=Full+Stack+Developer+%26+AI+Workflow+Builder;Bug+Bounty+Hunter+(ch4rsec+%40+HackerOne);Server+Architecture+%40+Pryafix+%26+Biibschool;Building+3D%2F2D+Media+%26+Recon+Tools" alt="Typing intro" />
 </a>
 
@@ -10,8 +10,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=JosuaZxz&style=flat-square&color=1c5349&label=VIEWS" alt="Profile views" />
 <img src="https://img.shields.io/github/followers/JosuaZxz?style=flat-square&color=15332e&label=FOLLOWERS&logo=github&logoColor=white" alt="Followers" />
-<a href="https://difano.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-difano.vercel.app-1c5349?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-<a href="https://difano.hollyverse.xyz"><img src="https://img.shields.io/badge/MIRROR-hollyverse.xyz-222a29?style=flat-square&logo=cloudflare&logoColor=white" alt="Mirror" /></a>
+<a href="https://josuazxz.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-josuazxz.vercel.app-1c5349?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 <img src="https://img.shields.io/badge/HACKERONE-ch4rsec-1a201f?style=flat-square&logo=hackerone&logoColor=d4946f" alt="HackerOne ch4rsec" />
 
 </div>
@@ -133,7 +132,7 @@ flowchart LR
 
 ## Connect
 
-- **Portfolio:** [difano.vercel.app](https://difano.vercel.app) · [difano.hollyverse.xyz](https://difano.hollyverse.xyz)
+- **Portfolio:** [josuazxz.vercel.app](https://josuazxz.vercel.app)
 - **GitHub:** [@JosuaZxz](https://github.com/JosuaZxz)
 - **HackerOne:** `ch4rsec`
 - **Availability:** Open to Full Stack web engineering, AI workflow integration, and server infrastructure collaborations (`2025 / 2026`).
