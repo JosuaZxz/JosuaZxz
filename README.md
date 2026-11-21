@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:091110,50:15332e,100:1c5349&height=210&section=header&text=Josua%20Zxz&fontSize=62&fontColor=f4faf8&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%C2%B7%20AI%20Workflows%20%C2%B7%20Security%20Research&descSize=17&descAlignY=60&descColor=7be0c8" width="100%" alt="Josua Zxz Header" />
 
 <a href="https://josuazxz.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=5CE0C0&center=true&vCenter=true&width=760&lines=Full+Stack+Developer+%26+AI+Workflow+Builder;Bug+Bounty+Hunter+(ch4rsec+%40+HackerOne);Server+Architecture+%40+Pryafix+%26+Biibschool;Building+3D%2F2D+Media+%26+Recon+Tools" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=5CE0C0&center=true&vCenter=true&width=760&lines=Full+Stack+Developer+%26+AI+Workflow+Builder;Bug+Bounty+Hunter+(ch4rsec+%40+HackerOne);Server+Architecture+%40+Pryafix+%26+Biibschool;Building+2.5D%2F3D+Motion+%26+Recon+Tools" alt="Typing intro" />
 </a>
 
 <br /><br />
@@ -30,7 +30,7 @@
 I like turning messy ideas into fast, reliable systems across four overlapping worlds:
 
 - **Web & AI Engineering:** Full-stack TypeScript/React apps paired with AI-first automation & developer tooling.
-- **Programmatic Media:** Building cel-shaded 3D/2D storytelling & audio DSP workflows (`ricks-clip-skill`).
+- **Programmatic Motion &amp; Media:** Building OKLCH matte/cel 2.5D studio motion graphics ([`motion-graphic-skill`](https://github.com/JosuaZxz/motion-graphic-skill)) and Three.js explainer pipelines ([`ricks-clip-skill`](https://github.com/JosuaZxz/ricks-clip-skill)).
 - **Server Infrastructure:** High-concurrency server setup, plugin optimization, and network ops at [Pryafix](https://pryafix.web.id/) & [Biibschool](https://web.bibschool.my.id/).
 - **Security Research:** Ethical vulnerability hunting on HackerOne (`ch4rsec`) and passive recon automation (`Nova-Recon`).
 
@@ -103,16 +103,21 @@ I like turning messy ideas into fast, reliable systems across four overlapping w
 
 | Project | Description | Domain |
 | :--- | :--- | :--- |
+| **[`motion-graphic-skill`](https://github.com/JosuaZxz/motion-graphic-skill)** | Agent skill and studio pipeline for 9:16 &amp; 16:9 commercial motion graphics with Remotion 4, headless Blender 5.2 EEVEE matte/cel 2.5D sequences, OKLCH palettes, multi-band transitions, and `-14.8 LUFS` CC0 foley DSP ([`v1.0.0`](https://github.com/JosuaZxz/motion-graphic-skill/releases/tag/v1.0.0)). | `Remotion` · `Blender` · `Python` |
 | **[`ricks-clip-skill`](https://github.com/JosuaZxz/ricks-clip-skill)** | Agent skill and runnable 2.5D/3D cel-shaded Remotion + Three.js pipeline for 9:16 explainer Shorts with Fish Audio TTS, Whisper sync, and `-15.0 LUFS` DSP audio. | `TypeScript` · `Remotion` · `Three.js` · `Python` |
 | **[`Nova-Recon`](https://github.com/JosuaZxz/Nova-Recon)** | Scheduled bug bounty reconnaissance engine powered by Certificate Transparency logs and GitHub Actions for new-asset verification. | `Python` · `AppSec` · `GitHub Actions` |
 | **[`Pryafix`](https://pryafix.web.id/)** | Community Minecraft infrastructure architecture, plugin performance tuning, and server hardening. | `Infrastructure` · `Optimization` |
-| **[`Biibschool`](https://web.bibschool.my.id/)** | Developer supporting backend infrastructure, runtime stability, and server systems. | `Systems` `Backend` |
+| **[`Biibschool`](https://web.bibschool.my.id/)** | Developer supporting backend infrastructure, runtime stability, and server systems. | `Systems` · `Backend` |
 
 <details>
-<summary><b>View Featured Visual Output (ricks-clip-skill) &amp; Nova-Recon Pipeline</b></summary>
+<summary><b>View Featured Visual Outputs (motion-graphic-skill &amp; ricks-clip-skill) &amp; Nova-Recon Pipeline</b></summary>
 <br />
 
 <div align="center">
+  <a href="https://github.com/JosuaZxz/motion-graphic-skill">
+    <img src="https://raw.githubusercontent.com/JosuaZxz/motion-graphic-skill/main/docs/showcase.png" width="88%" alt="motion-graphic-skill Studio 2.5D &amp; Multi-Band Transitions Showcase" />
+  </a>
+  <br /><br />
   <a href="https://github.com/JosuaZxz/ricks-clip-skill">
     <img src="https://raw.githubusercontent.com/JosuaZxz/ricks-clip-skill/main/docs/showcase.png" width="88%" alt="ricks-clip-skill Rendered Output Showcase" />
   </a>
@@ -138,7 +143,7 @@ flowchart LR
 - **GitHub:** [@JosuaZxz](https://github.com/JosuaZxz)
 - **HackerOne:** `ch4rsec`
 - **Support:** [Saweria](https://saweria.co/JosuaZxz) · [SociaBuzz](https://sociabuzz.com/josuazxz/tribe)
-- **Availability:** Open to Full Stack web engineering, AI workflow integration, and server infrastructure collaborations (`2025 / 2026`).
+- **Availability:** Open to Full Stack web engineering, AI workflow integration, and server infrastructure collaborations (`2026`).
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:091110,50:15332e,100:1c5349&height=105&section=footer" width="100%" alt="Josua Zxz Footer" />
