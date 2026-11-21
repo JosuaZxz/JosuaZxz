@@ -2,15 +2,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:091110,50:15332e,100:1c5349&height=210&section=header&text=Josua%20Zxz&fontSize=62&fontColor=f4faf8&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%C2%B7%20AI%20Workflows%20%C2%B7%20Security%20Research&descSize=17&descAlignY=60&descColor=7be0c8" width="100%" alt="Josua Zxz Header" />
 
-<a href="https://josuazxz.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=5CE0C0&center=true&vCenter=true&width=760&lines=Full+Stack+Developer+%26+AI+Workflow+Builder;Bug+Bounty+Hunter+(ch4rsec+%40+HackerOne);Server+Architecture+%40+Pryafix+%26+Biibschool;Building+2.5D%2F3D+Motion+%26+Recon+Tools" alt="Typing intro" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=5CE0C0&center=true&vCenter=true&width=760&lines=Full+Stack+Developer+%26+AI+Workflow+Builder;Bug+Bounty+Hunter+(ch4rsec+%40+HackerOne);Server+Architecture+%40+Pryafix+%26+Biibschool;Building+2.5D%2F3D+Motion+%26+Recon+Tools" alt="Typing intro" />
 
 <br /><br />
 
 <img src="https://komarev.com/ghpvc/?username=JosuaZxz&style=flat-square&color=1c5349&label=VIEWS" alt="Profile views" />
 <img src="https://img.shields.io/github/followers/JosuaZxz?style=flat-square&color=15332e&label=FOLLOWERS&logo=github&logoColor=white" alt="Followers" />
-<a href="https://josuazxz.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-josuazxz.vercel.app-1c5349?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 <img src="https://img.shields.io/badge/HACKERONE-ch4rsec-1a201f?style=flat-square&logo=hackerone&logoColor=d4946f" alt="HackerOne ch4rsec" />
 <a href="https://saweria.co/JosuaZxz"><img src="https://img.shields.io/badge/SAWERIA-JosuaZxz-1c5349?style=flat-square&logo=buymeacoffee&logoColor=f7d060" alt="Support on Saweria" /></a>
 <a href="https://sociabuzz.com/josuazxz/tribe"><img src="https://img.shields.io/badge/SOCIABUZZ-josuazxz-1a201f?style=flat-square&logo=ko-fi&logoColor=7be0c8" alt="Support on SociaBuzz" /></a>
@@ -139,7 +136,6 @@ flowchart LR
 
 ## Connect & Support
 
-- **Portfolio:** [josuazxz.vercel.app](https://josuazxz.vercel.app)
 - **GitHub:** [@JosuaZxz](https://github.com/JosuaZxz)
 - **HackerOne:** `ch4rsec`
 - **Support:** [Saweria](https://saweria.co/JosuaZxz) · [SociaBuzz](https://sociabuzz.com/josuazxz/tribe)
