@@ -30,7 +30,7 @@
 I like turning messy ideas into fast, reliable systems across four overlapping worlds:
 
 - **Web & AI Engineering:** Full-stack TypeScript/React apps paired with AI-first automation & developer tooling.
-- **Programmatic Motion &amp; Media:** Building OKLCH matte/cel 2.5D studio motion graphics ([`motion-graphic-skill`](https://github.com/JosuaZxz/motion-graphic-skill)) and Three.js explainer pipelines ([`ricks-clip-skill`](https://github.com/JosuaZxz/ricks-clip-skill)).
+- **Programmatic Motion &amp; Media:** Building OKLCH matte/cel 2.5D studio motion graphics ([`motion-graphic-skill`](https://github.com/JosuaZxz/motion-graphic-skill)) and hybrid Blender 5.2 PBR + Remotion explainer pipelines ([`ricks-clip-skill`](https://github.com/JosuaZxz/ricks-clip-skill)).
 - **Server Infrastructure:** High-concurrency server setup, plugin optimization, and network ops at [Pryafix](https://pryafix.web.id/) & [Biibschool](https://web.bibschool.my.id/).
 - **Security Research:** Ethical vulnerability hunting on HackerOne (`ch4rsec`) and passive recon automation (`Nova-Recon`).
 
@@ -104,7 +104,7 @@ I like turning messy ideas into fast, reliable systems across four overlapping w
 | Project | Description | Domain |
 | :--- | :--- | :--- |
 | **[`motion-graphic-skill`](https://github.com/JosuaZxz/motion-graphic-skill)** | Agent skill and studio pipeline for 9:16 &amp; 16:9 commercial motion graphics with Remotion 4, headless Blender 5.2 EEVEE matte/cel 2.5D sequences, OKLCH palettes, multi-band transitions, and `-14.8 LUFS` CC0 foley DSP ([`v1.0.0`](https://github.com/JosuaZxz/motion-graphic-skill/releases/tag/v1.0.0)). | `Remotion` · `Blender` · `Python` |
-| **[`ricks-clip-skill`](https://github.com/JosuaZxz/ricks-clip-skill)** | Agent skill and runnable 2.5D/3D cel-shaded Remotion + Three.js pipeline for 9:16 explainer Shorts with Fish Audio TTS, Whisper sync, and `-15.0 LUFS` DSP audio. | `TypeScript` · `Remotion` · `Three.js` · `Python` |
+| **[`ricks-clip-skill`](https://github.com/JosuaZxz/ricks-clip-skill)** | Agent skill and hybrid Blender 5.2 GPU + Remotion pipeline for 9:16 vertical animated story Shorts with snap-and-hold 2D cast, Fish Audio TTS, Whisper sync, and `-15.0 LUFS` DSP audio ([`v5.1.0`](https://github.com/JosuaZxz/ricks-clip-skill/releases/tag/v5.1.0)). | `Blender` · `TypeScript` · `Remotion` · `Python` |
 | **[`Nova-Recon`](https://github.com/JosuaZxz/Nova-Recon)** | Scheduled bug bounty reconnaissance engine powered by Certificate Transparency logs and GitHub Actions for new-asset verification. | `Python` · `AppSec` · `GitHub Actions` |
 | **[`Pryafix`](https://pryafix.web.id/)** | Community Minecraft infrastructure architecture, plugin performance tuning, and server hardening. | `Infrastructure` · `Optimization` |
 | **[`Biibschool`](https://web.bibschool.my.id/)** | Developer supporting backend infrastructure, runtime stability, and server systems. | `Systems` · `Backend` |
@@ -119,7 +119,7 @@ I like turning messy ideas into fast, reliable systems across four overlapping w
   </a>
   <br /><br />
   <a href="https://github.com/JosuaZxz/ricks-clip-skill">
-    <img src="https://raw.githubusercontent.com/JosuaZxz/ricks-clip-skill/main/docs/showcase.png" width="88%" alt="ricks-clip-skill Rendered Output Showcase" />
+    <img src="https://raw.githubusercontent.com/JosuaZxz/ricks-clip-skill/main/docs/showcase-v5.1.png" width="88%" alt="ricks-clip-skill v5.1.0 Blender 5.2 PBR Showcase" />
   </a>
 </div>
 
